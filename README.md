@@ -18,9 +18,8 @@ deliberate fiction so the Open-Meteo lookups point at varied, real locations.
 ## Before the session (pre-work)
 1. Have a GitHub account and a **personal access token (PAT)** ready for the Git block.
 2. Open the notebook in Colab: replace `CSV_URL` in the data-loading cell with this repo's
-   raw CSV link, e.g.
-   `https://raw.githubusercontent.com/YOUR-ORG/hotel-tutorial/main/hotel_bookings.csv`
-
+   raw CSV link
+   
 ## Run order
-Open `hotel_tutorial.ipynb` and run cells top to bottom. If anything looks wrong:
+Open `hotel_tutorial_student.ipynb` and run cells top to bottom. If anything looks wrong:
 **Runtime ▸ Restart and run all.**
